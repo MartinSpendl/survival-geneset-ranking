@@ -1,4 +1,5 @@
 # Large Scale Gene Set Ranking for Survival-Related Gene Sets
+[![DOI](https://zenodo.org/badge/706679936.svg)](https://zenodo.org/badge/latestdoi/706679936)
 
 This is code to reproduce key results and figures from the article: **Large Scale Gene Set Ranking for Survival-Related Gene Sets**.
 
